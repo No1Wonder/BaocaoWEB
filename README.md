@@ -15,6 +15,18 @@ Console Application (.NET Framework)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b184f67-6c32-4eb7-97f3-a69328b1fc89" />
 ## Windows Form App
 Windows Forms Application (.NET Framework)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0a808927-18e2-4e64-8dac-c3c38db45cf8" />
+## Web App (ASP.NET WebForm + IIS)
+Tạo project mới: ASP.NET Web Application
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/862a7cb3-98ce-4bc8-a531-4716d012d166" />
+sử dụng IIS để deploy web 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf6f6c45-3157-4ad9-bc89-5e800e852f24" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2beea6b5-047a-4c0f-ae13-970d53b9b613" />
+Trang Web đc thiết kế ( không đc đẹp ) 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7201f32f-6b49-42b5-8b97-3f18b353c811" />
+
+
+
 
 
 
