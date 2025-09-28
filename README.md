@@ -3,3 +3,18 @@
 2. Console app, bắt buộc sử dụng .NET Framework 2.0, sử dụng được DLL trên: nhập được input, gọi DLL, hiển thị kết quả, phải có dấu án cá nhân. keyword: c# window Console => Console App (.NET Framework), biên dịch ra EXE
 3. Windows Form Application, bắt buộc sử dụng .NET Framework 2.0**, sử dụng được DLL đa năng trên, kéo các control vào để có thể lấy đc input, gọi DLL truyền input để lấy đc kq, hiển thị kq ra window form, phải có dấu án cá nhân; keyword: c# window Desktop => Windows Form Application (.NET Framework), biên dịch ra EXE
 3. Web đơn giản, bắt buộc sử dụng .NET Framework 2.0, sử dụng web server là IIS, dùng file hosts để tự tạo domain, gắn domain này vào iis, file index.html có sử dụng html css js để xây dựng giao diện nhập được các input cho bài toán, dùng mã js để tiền xử lý dữ liệu, js để gửi lên backend. backend là api.aspx, trong code của api.aspx.cs thì lấy được các input mà js gửi lên, rồi sử dụng được DLL đa năng trên. kết quả gửi lại json cho client, js phía client sẽ nhận được json này hậu xử lý để thay đổi giao diện theo dữ liệu nhận dược, phải có dấu án cá nhân. keyword: c# window web => ASP.NET Web Application (.NET Framework) + tham khảo link chatgpt thầy gửi. project web này biên dịch ra DLL, phải kết hợp với IIS mới chạy được.
+
+# Project lãi xuất giữa mua bán.
+## 1. DLL tạo 
+Class Library (.NET Framework)  
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/912b3fd9-2552-431a-98e0-0113cd932392" />
+## 2. tạo console app 
+Console Application (.NET Framework)  
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4edcb366-1e50-4ba7-8900-0f7928408910" />
+## lưu ý link references vào libraly
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b184f67-6c32-4eb7-97f3-a69328b1fc89" />
+## Windows Form App
+Windows Forms Application (.NET Framework)
+
+
+
