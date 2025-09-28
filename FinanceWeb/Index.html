@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Finance Web</title>
+    <script>
+    function tinh() {
+      var data = "gao=" + document.getElementById("gao").value +
+                 "&my=" + document.getElementById("my").value +
+                 "&gas=" + document.getElementById("gas").value +
+                 "&com=" + document.getElementById("com").value +
+                 "&tra=" + document.getElementById("tra").value +
+                 "&mysuat=" + document.getElementById("mysuat").value;
+
+      var xhr = new XMLHttpRequest();
+      xhr.open("POST", "api.aspx", true);
+      xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+      xhr.onreadystatechange = function () {
+        if (xhr.readyState == 4 && xhr.status == 200) {
+          var res = JSON.parse(xhr.responseText);
+          document.getElementById("kq").innerText =
+            "Chi: " + res.chi + " | Thu: " + res.thu + " | Lợi nhuận: " + res.loi;
+        }
+      };
+      xhr.send(data);
+    }
+    </script>
+</head>
+<body>
+    <h2>Finance Web Demo</h2>
+    <p>Gạo <input id="gao" /></p>
+    <p>Mỳ <input id="my" /></p>
+    <p>Gas <input id="gas" /></p>
+    <p>Cơm bán <input id="com" /></p>
+    <p>Trà chanh <input id="tra" /></p>
+    <p>Mỳ suất <input id="mysuat" /></p>
+    <button onclick="tinh()">Tính toán</button>
+    <p id="kq"></p>
+</body>
+</html>

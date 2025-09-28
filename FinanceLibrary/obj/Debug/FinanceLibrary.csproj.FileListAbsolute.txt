@@ -1,0 +1,6 @@
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceLibrary\bin\Debug\FinanceLibrary.dll
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceLibrary\bin\Debug\FinanceLibrary.pdb
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceLibrary\obj\Debug\FinanceLibrary.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceLibrary\obj\Debug\FinanceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceLibrary\obj\Debug\FinanceLibrary.dll
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceLibrary\obj\Debug\FinanceLibrary.pdb

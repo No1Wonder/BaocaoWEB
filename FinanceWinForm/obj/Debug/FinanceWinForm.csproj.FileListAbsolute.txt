@@ -1,0 +1,12 @@
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceWinForm\bin\Debug\FinanceWinForm.exe
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceWinForm\bin\Debug\FinanceWinForm.pdb
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceWinForm\bin\Debug\FinanceLibrary.dll
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceWinForm\bin\Debug\FinanceLibrary.pdb
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceWinForm\obj\Debug\FinanceWinForm.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceWinForm\obj\Debug\FinanceWinForm.Form1.resources
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceWinForm\obj\Debug\FinanceWinForm.Properties.Resources.resources
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceWinForm\obj\Debug\FinanceWinForm.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceWinForm\obj\Debug\FinanceWinForm.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceWinForm\obj\Debug\FinanceW.51308263.Up2Date
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceWinForm\obj\Debug\FinanceWinForm.exe
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceWinForm\obj\Debug\FinanceWinForm.pdb

@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceWeb\bin\FinanceWeb.dll.config
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceWeb\bin\FinanceWeb.dll
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceWeb\bin\FinanceWeb.pdb
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceWeb\bin\FinanceLibrary.dll
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceWeb\bin\FinanceLibrary.pdb
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceWeb\obj\Debug\FinanceWeb.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceWeb\obj\Debug\FinanceWeb.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceWeb\obj\Debug\FinanceWeb.csproj.Up2Date
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceWeb\obj\Debug\FinanceWeb.dll
+C:\Users\ACER\source\repos\FinanceLibrary\FinanceWeb\obj\Debug\FinanceWeb.pdb
